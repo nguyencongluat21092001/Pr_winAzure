@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\bin\CurrencyService.dll.config
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\bin\CurrencyService.dll
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\bin\CurrencyService.pdb
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.dll
+C:\Users\Administrator\Documents\WCf\Assignment\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.pdb
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\bin\CurrencyService.dll.config
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\bin\CurrencyService.dll
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\bin\CurrencyService.pdb
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.csproj.AssemblyReference.cache
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.csproj.CoreCompileInputs.cache
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.dll
+C:\Users\WIN\Downloads\ChangeCurrenceService\CurrencyService\obj\Debug\CurrencyService.pdb
